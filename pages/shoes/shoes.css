@@ -1,0 +1,47 @@
+*{
+    font-family:  Calisto MT;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: slategray;
+    margin-bottom: 100px;
+    text-align: center;
+    transition: all 0.5s ease;
+
+}
+
+h1:hover{
+    color: black;
+    padding-right: 19px; 
+    
+}
+
+#sec{
+    display: flex;
+}
+
+#shoesone{
+    margin-left: 40px;
+}
+
+#shoesone #one{
+    margin-top: 20px;
+}
+
+#shoesone  p{
+    margin-top: 25px;
+    color:darkslategray;
+}
+
+#shoestwo p{
+    margin-top: 25px;
+    color:darkslategray ;
+}
+
+
+#shoestwo #two{
+    margin-top: 20px;
+}
+

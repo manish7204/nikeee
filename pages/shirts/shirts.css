@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Calisto MT;
+}
+
+
+h1{
+    margin-bottom: 60px;
+
+}
+#sec{
+    display: flex;
+}
+
+#shirtone{
+    margin-left: 40px;
+}
+
+#shirttwo{
+    margin-left: 390px
+}
+
+#shirtone #one{
+    margin-top: 20px;
+}
+
+#shirtone  p{
+    margin-top: 25px;
+    color:darkturquoise;
+}
+
+#shirttwo p{
+    margin-top: 25px;
+    color:darkturquoise ;
+}
+
+
+#shirttwo #two{
+    margin-top: 20px;
+}
+
+#shirtone img{
+      width: 400px;
+      height: 500px;
+
+}
+
+#shirttwo img{
+    width: 220px;
+    width: 290px;
+}
+
+#sec2{
+    display: flex;
+    margin-top: 60px;
+}
+#sec3{
+    display: flex;
+    margin-top: 60px;
+}
